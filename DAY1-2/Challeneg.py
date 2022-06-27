@@ -1,1 +1,1 @@
-print("/""C:\Download\'hello/tworld'.py/"")
+print("""\"C:\Download\'hello\tworld'.py\"""")
