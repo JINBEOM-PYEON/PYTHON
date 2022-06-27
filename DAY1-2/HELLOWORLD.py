@@ -4,4 +4,4 @@ print("hello world") # 공백 삽입, 두줄에 걸쳐 출력
 print("\'hello world\'") # 작은 따옴표(') 출력, \(이스케이프)없이 묶어도 출력 가능
 print('\"hello world\"') # 큰 따옴표(") 출력, 예외 : 작은 따옴표 안에 작은 따옴표를 포함하는 경우
 print("'\"hello world\"\'") # 큰 따옴표(") 출력
-print("hello\nworld") # 줄 바꿈 출력
+print("hello\nworld") # 줄 바꿈 출
